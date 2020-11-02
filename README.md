@@ -1,10 +1,10 @@
 # SILCR
-source code for paper "Self-Imitation Learning in Sparse Reward Settings"
+source code for paper ["Self-Imitation Learning in Sparse Reward Settings"](https://arxiv.org/pdf/2010.06962.pdf)
 
 # Requirements
 
 - tensorflow (for tensorboard logging)
-- pytorch (>=1.0, 1.0.1 used in my experiment)
+- pytorch (>=1.0, 1.0.1 used in my experiments)
 - gym
 - mujoco
 
